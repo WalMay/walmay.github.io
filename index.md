@@ -3,27 +3,27 @@
 תוכן תוכן תוכן
 
 ## גליונות עבר
-[קודקוד #1](https://walmay.github.io/kodkod1)
+[קודקוד #1](https://walmay.github.io/posts/kodkod1)
 
 על הדרך לאתגר אנשים להשתנות, יצירת תמונה שאנשים מאמינים בה וחיסון עצמי ללחצים שבאים מבחוץ
 
 
-[קודקוד #2](https://walmay.github.io/kodkod2)
+[קודקוד #2](https://walmay.github.io/posts/kodkod2)
 
 על בטחון פסיכולוגי, והחשיבות בתחושת משמעות והשפעה
 
 
-[קודקוד #3](https://walmay.github.io/kodkod3)
+[קודקוד #3](https://walmay.github.io/posts/kodkod3)
 
 על תרבות ארגונית של נתינה, ובמה ליצירתיות גם תחת לחץ לדלבר
 
 
-[קודקוד #4](https://walmay.github.io/kodkod4)
+[קודקוד #4](https://walmay.github.io/posts/kodkod4)
 
 על המפקד כמאמן, והחשיבות בהכרה ופידבק 
 
 
-[קודקוד #5](https://walmay.github.io/kodkod5.pdf)
+[קודקוד #5](https://walmay.github.io/posts/kodkod5)
 
 על איזון בין החיים האישיים והקריירה, עומס בעבודה וההשלכות שלו על ביצועים
 
