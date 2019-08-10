@@ -8,7 +8,7 @@
 
 [ReWork With Google][2]
 
-[What Google Learned From its Quest to Build the Perfect Team[3]
+[What Google Learned From its Quest to Build the Perfect Team][3]
 
 [Understand team effectiveness][4]
 
