@@ -1,4 +1,4 @@
-<html dir="rtl" lang="he">
+<div dir='rtl' align='right'>
   
 # Kodkod
 ## ??מה זה קודקוד
@@ -36,4 +36,4 @@
 להצעות, שאלות, התייעצויות ותהיות על החיים
 [דברו איתי](mailto:maywalter1@gmail.com)
 
-</html>
+</div>
