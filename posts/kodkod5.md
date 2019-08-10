@@ -1,22 +1,37 @@
 # Kodkod 5
 ## Read
+
 [Kodkod #5][1]
 
 
 ## References
+
 [Calendars and keys: The classification of “home” and “work”][2]
+
 [Segmentors vs Integrators: Google’s work-life-balance research][3]
+
 [“One Simple Thing” for goal setting][4]
+
 [Be a Better Leader, Have a Richer Life][5]
+
 [When Work Takes Over Your Life][6]
+
 [Introducing the Thrive App][7]
+
 [Pomodoro Technique][8]
+
 [Stress and Hacking][9]
+
 [Cyber Operations Stress Survey (COSS): Studying fatigue, frustration, and cognitive workload in cybersecurity operations][10]
+
 [Sources of Occupational Stress and Prevalence of Burnout and Clinical Distress Among U.S. Air Force Cyber Warfare Operators][11]
+
 [Military Families: Extreme Work and Extreme "Work-Family"][12]
+
 [You and Your Research][13]
+
 [Teamwork and High Performance Work Organization][14]
+
 [Does Team Building Work][15]
 
 
