@@ -1,6 +1,6 @@
 # Kodkod
 ## ??מה זה קודקוד
-תוכן תוכן תוכן
+<center>קודקוד היא תפוצת וובינט פיקודי</center>
 
 ## גליונות עבר
 [קודקוד #1](https://walmay.github.io/posts/kodkod1)
