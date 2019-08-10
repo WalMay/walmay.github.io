@@ -1,3 +1,5 @@
+<html dir="rtl" lang="he">
+  
 # Kodkod
 ## ??מה זה קודקוד
 תוכן תוכן תוכן
