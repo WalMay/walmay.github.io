@@ -1,4 +1,4 @@
-<div dir='rtl' align="right">
+<div align='middle'>
   
 # Kodkod
 ## ??מה זה קודקוד
