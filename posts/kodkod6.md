@@ -2,19 +2,29 @@
 ## Read
 
 [Kodkod #6][1]
+
 [Chaos Oriented Management] [2]
 
 ## References
 
 [Fred Kofman] [3]
+
 [The Janitor Who Helped Put a Man on the Moon][4]
+
 [What's you job?] [5]
+
 [The Collaboration Blind Spot] [6]
+
 [Cross Silo Leadership] [7]
+
 [Effective Mavericks in Business] [8]
+
 [Know@Wharton Leadership] [9]
+
 [Turn the Ship Around!] [10]
+
 [The Mystery of the Miserable Employees] [11]
+
 
 [1]: http://k0dk0d.com/pdfs/kodkod6.pdf "Kodkod #6"
 [2]: http://k0dk0d.com/pdfs/ChaosManagement.pdf "Chaos Oriented Management"
