@@ -5,7 +5,9 @@
 
 [Chaos Oriented Management] [2]
 
+
 ## References
+
 
 [Fred Kofman] [3]
 
