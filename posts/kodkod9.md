@@ -6,10 +6,15 @@
 ## References
 
 [Tal Ben-Shahar: The Incredible Power of Positivity] [2]
+
 [Just Ask Leadership] [3]
+
 [Situational Leadership] [4]
+
 [Cognitive Biases] [5]
+
 [What Business Can Learn From the Military] [6]
+
 [Why Good Leaders Make You Feel Safe] [7]
 
 
