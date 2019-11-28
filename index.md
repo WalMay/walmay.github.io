@@ -59,3 +59,14 @@
 ### דברו איתי
 <center> להצעות, שאלות, התייעצויות ותהיות על החיים</center>
 [דברו איתי](mailto:maywalter1@gmail.com)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
+
