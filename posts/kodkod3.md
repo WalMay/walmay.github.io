@@ -19,7 +19,7 @@
 [How to Apply a Design Thinking][7]
 
 
-[1]: http://k0dk0d.com/pdfs/kodkod3.pdf "Kodkod #3"
+[1]: http://www.k0dk0d.com/pdfs/kodkod3.pdf "Kodkod #3"
 [2]: https://www.adamgrant.net/newsletter
 [3]: https://www.ted.com/talks/worklife_with_adam_grant_creative_burstiness_at_the_daily_show
 [4]: https://www.ted.com/talks/adam_grant_are_you_a_giver_or_a_taker
