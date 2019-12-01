@@ -19,7 +19,7 @@
 
 [Developing a Growth Mindset] [8]
 
-[1]: http://k0dk0d.com/pdfs/kodkod8.pdf "Kodkod #8"
+[1]: http://www.k0dk0d.com/pdfs/kodkod8.pdf "Kodkod #8"
 [2]: hhttps://www.theatlantic.com/category/dear-therapist "Dear Therapist"
 [3]: https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life "How Changing Your Story Can Change Your Life"
 [4]: https://www.youtube.com/watch?v=ljqra3BcqWM "Extreme Ownership"
