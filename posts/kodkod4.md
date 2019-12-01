@@ -21,7 +21,7 @@
 [What Good Feedback Really Looks Like][8]
 
 
-[1]: http://k0dk0d.com/pdfs/kodkod4.pdf "Kodkod #4"
+[1]: http://www.k0dk0d.com/pdfs/kodkod4.pdf "Kodkod #4"
 [2]: https://www.linkedin.com/pulse/mentors-good-coaches-better-adam-grant/
 [3]: https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/
 [4]: https://hbr.org/2015/03/research-were-not-very-self-aware-especially-at-work
