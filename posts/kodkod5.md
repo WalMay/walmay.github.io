@@ -35,7 +35,7 @@
 [Does Team Building Work][15]
 
 
-[1]: http://k0dk0d.com/pdfs/kodkod5.pdf "Kodkod #5"
+[1]: http://www.k0dk0d.com/pdfs/kodkod5.pdf "Kodkod #5"
 [2]: https://link.springer.com/article/10.1007/BF02408393 "Title"
 [3]: https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/
 [4]: https://rework.withgoogle.com/guides/managers-care-professionally-personally-for-team/steps/use-one-simple-thing-for-goal-setting/
