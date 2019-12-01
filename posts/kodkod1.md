@@ -17,7 +17,7 @@
 [HBR Email Newsletters][6]
 
 
-[1]: http://k0dk0d.com/pdfs/kodkod1.pdf "Kodkod #1"
+[1]: http://www.k0dk0d.com/pdfs/kodkod1.pdf "Kodkod #1"
 [2]: https://hbr.org/2015/12/research-based-ways-to-win-at-work-in-2016
 [3]: https://hbr.org/2015/07/7-things-leaders-do-to-help-people-change
 [4]: https://hbr.org/2015/06/employees-perform-better-when-they-can-literally-see-what-youre-saying
