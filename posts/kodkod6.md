@@ -28,8 +28,8 @@
 [The Mystery of the Miserable Employees] [11]
 
 
-[1]: http://k0dk0d.com/pdfs/kodkod6.pdf "Kodkod #6"
-[2]: http://k0dk0d.com/pdfs/ChaosManagement.pdf "Chaos Oriented Management"
+[1]: http://www.k0dk0d.com/pdfs/kodkod6.pdf "Kodkod #6"
+[2]: http://www.k0dk0d.com/pdfs/ChaosManagement.pdf "Chaos Oriented Management"
 [3]: https://www.linkedin.com/in/fkofman?trk=corpblog_0913_fredkofman_speakerseries "Fred Kofman"
 [4]: https://fromthegreennotebook.com/2017/11/04/the-janitor-who-help-put-a-man-on-the-moon/ "The Janitor Who Helped Put a Man on the Moon"
 [5]: https://www.youtube.com/watch?v=IdMvWLARF1w "What's your job?"
