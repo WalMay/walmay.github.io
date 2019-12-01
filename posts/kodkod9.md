@@ -18,7 +18,7 @@
 [Why Good Leaders Make You Feel Safe][7]
 
 
-[1]: http://k0dk0d.com/pdfs/kodkod9.pdf "Kodkod #9"
+[1]: http://www.k0dk0d.com/pdfs/kodkod9.pdf "Kodkod #9"
 [2]: https://www.youtube.com/watch?v=fJTpIfXnbTc "Tal Ben-Shahar: The Incredible Power of Positivity"
 [3]: https://iveybusinessjournal.com/publication/just-ask-leadership-why-great-managers-always-ask-the-right-questions "Just Ask Leadership"
 [4]: https://www.oregonbusiness.com/article/sponsored/item/18801-situational-leadership "Situational Leadership"
