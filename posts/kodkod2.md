@@ -27,7 +27,7 @@
 [We're Not Very Self Aware, Especially At Work][11]
 
 
-[1]: http://k0dk0d.com/pdfs/kodkod2.pdf "Kodkod #2"
+[1]: http://www.k0dk0d.com/pdfs/kodkod2.pdf "Kodkod #2"
 [2]: https://rework.withgoogle.com/
 [3]: https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 [4]: https://rework.withgoogle.com/print/guides/5721312655835136/
