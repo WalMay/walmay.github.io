@@ -29,3 +29,13 @@
 [6]: https://hbr.org/2015/11/the-easiest-thing-you-can-do-to-be-a-great-boss
 [7]: https://hbr.org/2015/11/what-amazing-bosses-do-differently
 [8]: https://hbr.org/2019/05/what-good-feedback-really-looks-like
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
