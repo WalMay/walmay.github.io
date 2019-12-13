@@ -24,3 +24,13 @@
 [5]: https://www.haaretz.co.il/magazine/.premium-MAGAZINE-1.7948082 "שליטה עצמית גבוהה היא אשליה"
 [6]: https://youtu.be/FSZyzhi8C9o "The Science of Habits"
 [7]: https://online.husson.edu/consumer-behavior-pavlovian-theory "Pavlovian Theory"
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
