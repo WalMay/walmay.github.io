@@ -50,3 +50,14 @@
 [13]: https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 [14]: https://www.eurofound.europa.eu/publications/article/2007/teamwork-and-high-performance-work-organisation
 [15]: https://www.researchgate.net/publication/220030881_Does_Team_Building_Work
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
+
