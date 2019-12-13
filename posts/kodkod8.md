@@ -27,3 +27,13 @@
 [6]: https://www.adamgrant.net/post/worklife-how-to-trust-people-you-don-t-like "How to Trust People You Don't Like"
 [7]: https://keeptalkinggame.com "Keep Talking and Nobody Explodes"
 [8]: https://www.youtube.com/watch?v=hiiEeMN7vbQ "Developing a Growth Mindset"
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
