@@ -17,3 +17,13 @@
 [3]: https://www.ted.com/talks/dan_ariely_how_to_change_your_behavior_for_the_better "Change Your Behavior For The Better"
 [4]: https://www.ted.com/talks/mike_cannon_brookes_how_you_can_use_impostor_syndrome_to_your_benefit "How You Can Use Imposter Syndrome To Your Benefit"
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
+
