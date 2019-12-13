@@ -25,3 +25,13 @@
 [5]: https://humanhow.com/en/list-of-cognitive-biases-with-examples/ "Cognitive Biases"
 [6]: https://www.youtube.com/watch?v=V_DeTNh5lL4 "What Business Can Learn From the Military"
 [7]: https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe/ "Why Good Leaders Make You Feel Safe"
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
