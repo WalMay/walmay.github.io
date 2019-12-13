@@ -39,3 +39,13 @@
 [9]: https://knowledge.wharton.upenn.edu/topic/leadership/ "Know@Wharton Leadership"
 [10]: https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y "Turn the Ship Around!"
 [11]: https://www.nytimes.com/2019/06/15/upshot/how-to-win-neil-irwin.html "The Mystery of the Miserable Employees"
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
