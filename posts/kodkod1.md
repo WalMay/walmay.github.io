@@ -23,3 +23,13 @@
 [4]: https://hbr.org/2015/06/employees-perform-better-when-they-can-literally-see-what-youre-saying
 [5]: https://hbr.org/2015/09/make-yourself-immune-to-secondhand-stress
 [6]: https://hbr.org/email-newsletters
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
