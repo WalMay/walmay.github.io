@@ -26,3 +26,13 @@
 [5]: https://www.researchgate.net/publication/26762646_Seeking_Help_in_the_Shadow_of_Doubt_The_Sensemaking_Processes_Underlying_How_Nurses_Decide_Whom_to_Ask_for_Advice
 [6]: https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers
 [7]: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
