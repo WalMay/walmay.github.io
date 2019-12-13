@@ -38,3 +38,13 @@
 [9]: https://hbr.org/2017/10/you-dont-find-your-purpose-you-build-it
 [10]: https://www.youtube.com/watch?v=IPYeCltXpxw
 [11]: https://hbr.org/2015/03/research-were-not-very-self-aware-especially-at-work
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153532160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153532160-1');
+</script>
