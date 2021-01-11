@@ -10,17 +10,17 @@
  
 ## ??מגניב! יש עוד תוכן
 
-[אנשים זה מעניין](http://bit.ly/wow_ppl)
+<center>אנשים זה מעניין - על ניהול, פסיכולוגיה וכח אדם</center>
+[טלגרם](https://t.me/joinchat/HH3H4mmNmlq1-mrr)
+[ווטסאפ](http://bit.ly/wow_people)
 
-<center>על ניהול, פסיכולוגיה וכח אדם</center>
+<center>ביזנס זה מעניין - על מנהל עסקים, אסטרטגיה וטכנולוגיה</center>
+[טלגרם](https://t.me/joinchat/FGuuUUgFmIjnEyLK)
+[ווטסאפ](http://bit.ly/wow_business)
 
-[ביזנס זה מעניין](http://bit.ly/wow_business)
-
-<center>על מנהל עסקים, אסטרטגיה וטכנולוגיה</center>
-
-[פיטנס זה מעניין](http://bit.ly/wow_fitness)
-
-<center>על כושר, תזונה ואורח חיים בריא</center>
+<center>פיטנס זה מעניין - על כושר, תזונה ואורח חיים בריא</center>
+[טלגרם](https://t.me/joinchat/HSLqxflzfLowH0cb)
+[ווטסאפ](http://bit.ly/wow_fitness)
 
 
 
